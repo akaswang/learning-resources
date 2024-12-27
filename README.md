@@ -14,7 +14,7 @@ A curated collection of books and research papers, organized by genres and topic
 
 | Category | Title |
 |----------|---------------|
-| Deep Learning |  |
+|  |  |
 
 
 ## Usage
