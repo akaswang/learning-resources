@@ -17,14 +17,6 @@ A curated collection of books and research papers, organized by genres and topic
 |  |  |
 
 
-## Structure
-
-```
-└── 📁 Learning Resources
-    ├── 📁 Deep Learning
-    └── ...
-```
-
 ## Usage
 
 Browse through the folders to find books in your area of interest.
