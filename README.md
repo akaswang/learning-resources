@@ -1,6 +1,6 @@
-# Book Collection
+# Learning Resources
 
-A curated collection of books in PDF format, organized by genres and topics for easy access and discovery.
+A curated collection of books and research papers, organized by genres and topics for easy access and discovery.
 
 ## Contents
 
@@ -20,7 +20,7 @@ A curated collection of books in PDF format, organized by genres and topics for 
 
 ## Usage
 
-Browse through the folders to find books in your area of interest. All files are in PDF format.
+Browse through the folders to find books in your area of interest.
 
 ## Note
 
