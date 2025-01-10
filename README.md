@@ -1,6 +1,6 @@
 # Learning Resources
 
-A curated collection of books and research papers, organized by genres and topics for easy access and discovery.
+A curated collection of books, organized by topics for easy access.
 
 ## Books Available
 
